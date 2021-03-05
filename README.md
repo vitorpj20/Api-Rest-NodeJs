@@ -15,3 +15,4 @@ e o essencial do express para criar as rotas de forma rapida,
 ## O que pode melhorar ?
 
 * Utilizar a tecnologia **CORS** ( para que se possa usar a API em outro lugar sem ser o proprio host )
+* Adicionar o uso de bando de dados seja SQL ou NOSQL
